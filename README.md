@@ -1,6 +1,5 @@
-======================
 Bowling Game Project
-======================
+
 
 Project Description: -
 -------------------
